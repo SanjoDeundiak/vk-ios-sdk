@@ -21,10 +21,9 @@
 //  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #import "NSData+MD5.h"
-#ifndef DOXYGEN_SHOULD_SKIP_THIS
+
 @interface NSData (MD5)
 
 - (NSString *)MD5;
 
 @end
-#endif
